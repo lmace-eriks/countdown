@@ -1,3 +1,3 @@
-# Store Block course template
+# Countdown
 
-Here you'll learn how to create awesome Store Framework blocks!
+Custom App for ShredShop and Erik's Bike Shop within VTEX Development Sandbox
