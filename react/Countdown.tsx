@@ -76,9 +76,9 @@ const Countdown: StorefrontFunctionComponent<CountdownProps> = ({
     margin: "0",
     cursor: "pointer",
     alignSelf: "flex-end",
-    marginRight: "2rem",
+    marginRight: "0.75rem",
     position: "relative",
-    top: "1rem",
+    top: "0.75rem",
     lineHeight: "0"
   }
 
